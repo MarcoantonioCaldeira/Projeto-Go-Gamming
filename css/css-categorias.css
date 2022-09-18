@@ -1,0 +1,57 @@
+#categorias{
+  width: 100%;
+  height:500px;
+  background-color: #262626;
+}
+
+.categoria-livre{
+  position: absolute;
+  width: 15%;
+  height: 170px;
+  margin-top: 2%;
+  margin-left: 10%;
+  background-color: #0770e7;
+  border-radius: 5px;
+}
+
+.categoria-acao{
+  position: absolute;
+  width: 15%;
+  height: 170px;
+  margin-top: 2%;
+  margin-left: 26%;
+  background-color:#0562cb;
+  border-radius: 5px;
+}
+
+
+
+.categoria-aventura{
+  position: absolute;
+  width: 15%;
+  height: 170px;
+  margin-top: 2%;
+  margin-left: 42%;
+  background-color: #197ef1;
+  border-radius: 5px;
+}
+
+.categoria-terror{
+  position: absolute;
+  width: 15%;
+  height: 170px;
+  margin-top: 2%;
+  margin-left: 58%;
+  background-color: #0770e7;
+  border-radius: 5px;
+}
+
+.categoria-independente{
+  position: absolute;
+  width: 15%;
+  height: 170px;
+  margin-top: 2%;
+  margin-left:74%;
+  background-color: #4499f9;
+  border-radius: 5px;
+}

@@ -1,0 +1,33 @@
+ul{
+  padding: 5px;
+}
+
+li{
+  list-style: none;
+  display: inline;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin: 0 13px;
+}
+
+#menu{
+  width:30%;
+  margin-left:15%;
+ /* margin-top: -3.5%;*/
+  height:35px;
+}
+
+.icon{
+  margin-left: 95%;
+  margin-top: 2%;
+  width: 2%;
+}
+
+#conta{
+  width: 25%;
+  margin-left:77%;
+  margin-top:-3%;
+  height:50px;
+}
+

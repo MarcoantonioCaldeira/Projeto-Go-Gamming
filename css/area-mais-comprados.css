@@ -1,0 +1,52 @@
+#area-jogos-mais-comprados{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 13%;
+    border-radius: 7px;
+   /* margin-left:12%;*/
+    width:75%;
+    height: 400px;
+    background-color:#1e1c1c;
+  }
+
+
+  .jogoindie1{
+    position: absolute;
+    border-radius: 7px;
+    margin-left: 2.5%;
+    margin-top: 2%;
+    width:15%;
+    height: 300px;
+    background-color:#2684ef;
+  }
+
+  .jogoindie2{
+    position: absolute;
+    border-radius: 7px;
+    margin-left: 21%;
+    margin-top: 2%;
+    width:15%;
+    height: 300px;
+    background-color:#2684ef;
+  }
+
+  .jogoindie3{
+    position: absolute;
+    border-radius: 7px;
+    margin-left: 39%;
+    margin-top: 2%;
+    width:15%;
+    height: 300px;
+    background-color:#2684ef;
+  }
+
+  
+  .jogoindie4{
+    position: absolute;
+    border-radius: 7px;
+    margin-left: 57%;
+    margin-top: 2%;
+    width:15%;
+    height: 300px;
+    background-color:#2684ef;
+  }

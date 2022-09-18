@@ -1,0 +1,136 @@
+.h2-menu{
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1vw;
+  margin-left: 47%;
+}
+
+.h1-msg-principal{
+  font-family: arial;
+  line-height: 2px;
+  color: #ffff;
+  font-size: 60px; 
+}
+
+.h4{
+   color: #ffff;
+   font-family: 'Montserrat', sans-serif; 
+    display: inline; 
+    font-size: 14px;
+}
+
+.novidades{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 5%;
+  font-size: 40px;
+}
+
+.comprados{
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 5%;
+  font-size: 40px;
+}
+
+
+
+
+/*Titulos de cada sessao de jogos*/
+.h1-lancamentos{
+  display: inline-block;
+  font-family: arial;
+  color: #fff;
+  margin-top: -2%;
+  font-size:50px;
+  margin-top: 10%;
+  margin-left: 12%;
+}
+
+.h1-jogos-mais-comprados{
+  display: inline-block;
+  font-family: arial;
+  color: #fff;
+  font-size:50px;
+  margin-top: 10%;
+  margin-left: 12%;
+}
+
+.h1-titulo-jogosclassicos{
+  display: inline-block;
+  font-family: arial;
+   margin-top: 10%;
+  color: #fff;
+  font-size:50px;
+  margin-left: 12%;
+}
+
+.h1-titulo-jogosdefranquia{
+  display: inline-block;
+  font-family: arial;
+  color: #fff;
+  font-size:50px;
+  margin-top: 10%;
+  margin-left: 33%;
+}
+
+
+.h1-categorias{
+  display: inline-block;
+  font-family: arial;
+  color: #fff;
+  font-size:50px;
+  margin-top: 3%;
+  margin-left: 25%;
+}
+
+.h2-categorias{
+  text-align: center;
+  display: inline-block;
+  font-family: arial;
+  color: #fff;
+  margin-top: 18%;
+}
+
+
+.h2-categorias-acao-terror{
+  text-align: center;
+  display: inline-block;
+  font-family: arial;
+  color: #fff;
+  margin-left: 25%;
+  margin-top: 18%;
+}
+
+.biblioteca{
+  color:white;
+  font-family:  'Montserrat', sans-serif;
+  margin-left: 10%;
+  margin-top: 7%;
+  font-size: 40px;
+}
+
+.h3-rodape{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 90%;
+  display: inline-block;
+  margin: 0 17px;
+}
+
+.h2-conteudo-rodape{
+  font-family: 'Montserrat', sans-serif;
+  display: inline;
+  color: white;
+  font-size: 90%;
+  display: inline;
+}
+
+.font-jogos{
+  font-family:  'Montserrat', sans-serif;
+  font-size: 18px;
+  margin-left: 2%;
+  margin-top: 10%;
+  color:white;
+
+}

@@ -1,0 +1,34 @@
+.imagem-carrousel{
+  max-width: 100%;
+  height: auto;
+}
+
+/*Jogos de lançamentos*/
+.lancamento-Jogo-1{width:100%; border-radius: 5px 5px 0px 0px;}
+.lancamento-Jogo-2{width:100%; border-radius: 5px 5px 0px 0px;}
+.lancamento-Jogo-3{width:100%; border-radius: 5px 5px 0px 0px;}
+.lancamento-Jogo-4{width:100%; border-radius: 5px 5px 0px 0px;}
+
+/*Jogos Indie*/
+.jogo_thelastfriend{width:100%; border-radius: 5px 5px 0px 0px;}
+.jogo_hotline{width:100%; border-radius: 5px 5px 0px 0px;}
+
+/*Jogos Classicos*/
+
+/*Fraquias*/
+.img-franquia{width:100%; border-radius: 5px 5px 5px 5px;}
+
+
+.img-facebook{
+  position: absolute; 
+  width: 3%; 
+  left:86%; 
+  margin-top: 13%;
+}
+
+.img-instagram{
+  position: absolute; 
+  width: 3%; 
+  left:82%; 
+  margin-top: 13%;
+}
