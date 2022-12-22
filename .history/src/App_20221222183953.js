@@ -10,7 +10,7 @@ function App() {
    <BrowserRouter>
     <Routes>
       <Route path="/" element={<Menu />}>
-        <Route path="Inicio" element={<Inicio />}/>
+        <Route path="inicio" element={<Inicio />}/>
         <Route path="jogos" element={< Jogos />}/>
       </Route>
     </Routes>
@@ -18,6 +18,5 @@ function App() {
   );
 }
 
-const root = ReactDOM.createRoot(document.getElementById('root')) 
-root.render(<App />);
+cont root = ReactDOM.createRoot(document.getElementById('root')) 
 export default App;
