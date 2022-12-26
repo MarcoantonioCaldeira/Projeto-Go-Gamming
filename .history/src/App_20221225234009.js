@@ -5,13 +5,13 @@ import Inicio from "./pages/Inicio/Inicio";
 import Jogos from "./pages/Jogos/Jogos";
 import Acao from "./pages/Categorias/Acao";
 import Aventura from "./pages/Categorias/Aventura";
-import Arcades from "./pages/Categorias/Arcades";
-import Familia from "./pages/Categorias/Familia";
-import Independentes from "./pages/Categorias/Independes";
-import Jogos_RPG from "./pages/Categorias/Jogos_RPG";
-import Gratuitos from "./pages/Categorias/Gratuitos";
-import Terror from "./pages/Categorias/Terror";
-import Suspence from "./pages/Categorias/Suspence";
+import Acao from "./pages/Categorias/Acao";
+import Acao from "./pages/Categorias/Acao";
+import Acao from "./pages/Categorias/Acao";
+import Acao from "./pages/Categorias/Acao";
+import Acao from "./pages/Categorias/Acao";
+import Acao from "./pages/Categorias/Acao";
+import Acao from "./pages/Categorias/Acao";
 
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
           <Route path="Arcades" element={<Arcades />}/>
           <Route path="Familia" element={<Familia />}/>
           <Route path="Independentes" element={<Independentes />}/>
-          <Route path="Jogos_RPG" element={<Jogos_RPG />}/>
+          <Route path="RPG" element={<Jogos_RPG />}/>
           <Route path="Gratuitos" element={<Gratuitos />}/>
           <Route path="Terror" element={<Terror />}/>
           <Route path="Suspence" element={<Suspence />}/>

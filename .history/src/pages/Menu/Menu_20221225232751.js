@@ -13,7 +13,7 @@ const Menu = () => {
           </li>
           <li>
             <a>Categorias</a>
-              <ul><Link to="./Acao">Ação</Link></ul>
+              <ul>Ação</ul>
               <ul>Aventura</ul>
               <ul>Arcades</ul>
               <ul>Para a Familia</ul>
