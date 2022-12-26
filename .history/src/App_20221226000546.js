@@ -35,8 +35,7 @@ function App() {
           <Route path="Gratuitos" element={<Gratuitos />}/>
           <Route path="Terror" element={<Terror />}/>
           <Route path="Suspence" element={<Suspence />}/>
-        <Route path="Login" element={<Login />}/>
-        <Route path="Cadastro" element={<Cadastro />}/>
+        
       </Route>
     </Routes>
    </BrowserRouter>
