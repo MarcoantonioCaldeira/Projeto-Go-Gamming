@@ -15,13 +15,9 @@ const Menu = () => {
             <a>Categorias</a>
               <ul>Ação</ul>
               <ul>Aventura</ul>
-              <ul>Arcades</ul>
-              <ul>Para a Familia</ul>
-              <ul>Independetes</ul>
-              <ul>Jogos de RPG</ul>
-              <ul>Jogos Gratuitos</ul>
-              <ul>Terror</ul>
-              <ul>Suspence</ul>
+              <ul>Corrida</ul>
+              <ul>Independentes</ul>
+              <ul></ul>
           </li>
 
         </ul>

@@ -18,7 +18,6 @@ const Menu = () => {
               <ul>Arcades</ul>
               <ul>Para a Familia</ul>
               <ul>Independetes</ul>
-              <ul>Jogos de RPG</ul>
               <ul>Jogos Gratuitos</ul>
               <ul>Terror</ul>
               <ul>Suspence</ul>
