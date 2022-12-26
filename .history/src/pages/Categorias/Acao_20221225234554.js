@@ -1,4 +1,4 @@
-import Menu from '../Menu/Menu'
+import Menu from './pages/Menu/Menu'
 
 const Acao = () => {
     <Menu />

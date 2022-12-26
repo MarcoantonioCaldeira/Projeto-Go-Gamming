@@ -17,11 +17,11 @@ const Menu = () => {
               <ul><Link to="./Aventura">Aventura</Link></ul>
               <ul><Link to="./Arcades">Arcades</Link></ul>
               <ul><Link to="./Familia">Familia</Link></ul>
-              <ul><Link to="./Independentes">Independetes</Link></ul>
-              <ul><Link to="./Jogos_RPG">Jogos_RPG</Link></ul>
-              <ul><Link to="./Gratuitos">Gratuitos</Link></ul>
-              <ul><Link to="./Terror">Torror</Link></ul>
-              <ul><Link to="./Suspence">Suspence</Link></ul>
+              <ul>Independetes</ul>
+              <ul>Jogos de RPG</ul>
+              <ul>Jogos Gratuitos</ul>
+              <ul>Terror</ul>
+              <ul>Suspence</ul>
           </li>
 
         </ul>

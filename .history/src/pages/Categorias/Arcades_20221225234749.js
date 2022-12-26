@@ -5,4 +5,4 @@ const Arcades = () => {
     return <h1>Jogos Arcades</h1>
 }
 
-export default Arcades;
+export default Acao;

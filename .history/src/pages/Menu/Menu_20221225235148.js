@@ -20,8 +20,8 @@ const Menu = () => {
               <ul><Link to="./Independentes">Independetes</Link></ul>
               <ul><Link to="./Jogos_RPG">Jogos_RPG</Link></ul>
               <ul><Link to="./Gratuitos">Gratuitos</Link></ul>
-              <ul><Link to="./Terror">Torror</Link></ul>
-              <ul><Link to="./Suspence">Suspence</Link></ul>
+              <ul>Terror</ul>
+              <ul>Suspence</ul>
           </li>
 
         </ul>

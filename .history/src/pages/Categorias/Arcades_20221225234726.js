@@ -1,8 +1,8 @@
 import Menu from '../Menu/Menu'
 
-const Arcades = () => {
+const Acao = () => {
     <Menu />
     return <h1>Jogos Arcades</h1>
 }
 
-export default Arcades;
+export default Acao;
