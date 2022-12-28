@@ -4,6 +4,7 @@ import './estilo.scss';
 
 const Menu = () => {
   return (
+    <div id="menu">
       <>
         <nav>
           <ul>
@@ -31,6 +32,7 @@ const Menu = () => {
         </nav>
         <Outlet />
       </>
+    </div>
   )
 };
 
