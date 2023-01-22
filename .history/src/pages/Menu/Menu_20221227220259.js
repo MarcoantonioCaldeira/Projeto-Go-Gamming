@@ -1,5 +1,4 @@
 import { Outlet, Link } from "react-router-dom";
-//import './estilo.scss';
 
 
 const Menu = () => {
