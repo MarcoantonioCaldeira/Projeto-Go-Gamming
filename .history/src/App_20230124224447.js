@@ -24,7 +24,7 @@ function App() {
   return (
    <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Menu />}>
+      <Route path="/" element={<Menu />}/>
         <Route path="Inicio" element={<Inicio />}/>
         <Route path="jogos" element={< Jogos />}/>
           <Route path="Acao" element={<Acao />}/>

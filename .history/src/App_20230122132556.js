@@ -10,7 +10,7 @@ import Acao from "./pages/Categorias/Acao";
 import Aventura from "./pages/Categorias/Aventura";
 import Arcades from "./pages/Categorias/Arcades";
 import Familia from "./pages/Categorias/Familia";
-import Independentes from "./pages/Categorias/Independentes";
+import Independentes from "./pages/Categorias/Independes";
 import Jogos_RPG from "./pages/Categorias/Jogos_RPG";
 import Gratuitos from "./pages/Categorias/Gratuitos";
 import Terror from "./pages/Categorias/Terror";
