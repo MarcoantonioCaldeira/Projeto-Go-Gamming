@@ -1,0 +1,5 @@
+@Poppins {
+  font-family: "Poppins";   /*Can be any text*/
+  src: local("AirbnbCerealLight"),
+    url("'https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Poppins&display=swap'") format("woff");
+}

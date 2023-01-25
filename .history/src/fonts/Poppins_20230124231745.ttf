@@ -1,0 +1,5 @@
+@Poppins {
+  font-family: "Light";   /*Can be any text*/
+  src: local("AirbnbCerealLight"),
+    url("") format("");
+}

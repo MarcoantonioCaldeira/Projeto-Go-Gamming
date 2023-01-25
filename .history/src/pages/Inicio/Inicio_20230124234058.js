@@ -7,7 +7,7 @@ const Inicio = () => {
             <div id="Local_Img">
                 <h1>Aqui é a tela inicial</h1>
             </div>
-            <div id="Corpo_Site">
+            <div id="Corpo">
 
             </div>
         </div>

@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom/client";
-import "./fonts/Poppins.ttf";
+import "./fonts/Poppins.ttf"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Menu from "./pages/Menu/Menu";

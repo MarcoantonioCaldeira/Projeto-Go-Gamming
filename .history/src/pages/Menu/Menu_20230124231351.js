@@ -5,7 +5,7 @@ import './estilo.css';
 const Menu = () => {
   return (
       <>
-        <nav id="nav_bar">
+        <nav id="menu">
           <ul>
             <li>
               <Link to="./Inicio">Inicio</Link>
