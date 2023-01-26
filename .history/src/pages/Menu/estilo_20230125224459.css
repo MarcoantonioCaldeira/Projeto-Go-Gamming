@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a, ul{
+    display: inline;
+    color: white;
+    text-decoration: none !important;
+    font-family: Arial;
+}
+
+#nav_bar{
+    position:relative;
+    width: 100%;
+    list-style:none;
+    /* float:left; */
+    background-color: red;
+    height: 80px;
+}

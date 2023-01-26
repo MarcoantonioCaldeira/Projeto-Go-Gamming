@@ -14,7 +14,7 @@
 #nav_bar{
     list-style:none;
     float:left; 
-    border: 1px solid #c0c0c0;
+    border: 1px solid #c0c0c0;;
 }
 
 #nav_bar li{

@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    display: block;
+    color: white;
+    text-decoration: none !important;
+    font-family: Arial;
+}
+
+a{
+    tes
+}
+
+#nav_bar{
+    width: 100%;
+    background-color: red;
+    height: 80px;
+}

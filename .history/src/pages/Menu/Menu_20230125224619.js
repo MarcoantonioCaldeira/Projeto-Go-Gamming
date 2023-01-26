@@ -6,7 +6,7 @@ const Menu = () => {
   return (
       <>
         <nav>
-          <ul id="nav_bar">
+          <ul id="NavBar">
             <li>
               <Link to="./Inicio">Inicio</Link>
             </li>

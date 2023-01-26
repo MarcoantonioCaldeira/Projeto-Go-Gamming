@@ -5,8 +5,8 @@ import './estilo.css';
 const Menu = () => {
   return (
       <>
-        <nav>
-          <ul id="nav_bar">
+        <nav id="nav_bar">
+          <ul>
             <li>
               <Link to="./Inicio">Inicio</Link>
             </li>

@@ -12,9 +12,12 @@
 } */
 
 #nav_bar{
+    position:relative;
+    width: 100%;
     list-style:none;
     float:left; 
-    border: 1px solid #c0c0c0;
+    background-color: red;
+    height: 80px;
 }
 
 #nav_bar li{
@@ -33,11 +36,3 @@
     background-color:#fff;
     display:none;
     }
-
-    #nav_bar li:hover ul, #nav_bar li.over ul{display:block;}
-
-    #nav_bar li ul li{
-        border:1px solid #c0c0c0;
-        display:block;
-        width:150px;
-        }

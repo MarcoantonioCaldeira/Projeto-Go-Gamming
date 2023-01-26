@@ -1,4 +1,4 @@
-
+import "./estilo.css"
 
 const rodape = () => {
 

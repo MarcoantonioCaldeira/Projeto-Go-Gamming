@@ -1,10 +1,11 @@
 
 
+
 const rodape = () => {
 
     return(
-        <div id="RodapeSite">
-            <h2>Aqui é o rodape</h2>
+        <div id="rodape">
+
         </div>
     )
 }

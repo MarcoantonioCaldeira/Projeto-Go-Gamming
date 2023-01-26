@@ -1,5 +1,5 @@
 import "./estilo.css"
-import  Rodape from  "../rodape/rodape"
+import  rodape from  "./rodape/rodape.js"
 
 const Inicio = () => {
     
@@ -11,7 +11,7 @@ const Inicio = () => {
             <div id="Corpo_Site">
 
             </div>
-            <Rodape />
+            <rodape />
         </div>
     )
 }

@@ -1,5 +1,5 @@
 import "./estilo.css"
-import  Rodape from  "../rodape/rodape"
+import  Rodape from  "./rodape/rodape"
 
 const Inicio = () => {
     

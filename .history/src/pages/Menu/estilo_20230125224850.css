@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* a, ul{
+    display: inline;
+    color: white;
+    text-decoration: none !important;
+    font-family: Arial;
+} */
+
+#nav_bar{
+    position:relative;
+    width: 100%;
+    list-style:none;
+    /* float:left; */
+    background-color: red;
+    height: 80px;
+}
+
+#nav_bar li{
+    position:relative;
+    float:left;
+    border-right:1px solid #c0c0c0;
+}
+
+#nav_bar li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
