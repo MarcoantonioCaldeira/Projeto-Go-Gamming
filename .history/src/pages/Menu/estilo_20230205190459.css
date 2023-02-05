@@ -97,6 +97,7 @@
 
   .area_cliente_login{
     padding: 10px 20px;
+    text-decoration:double;
     font-weight: 700;
     border-radius: 5px;
     color: white;
