@@ -14,7 +14,7 @@ const Menu = () => {
               <Link to="./Jogos">Jogos</Link>
             </li>
             <div class="dropdown" >
-              <button class="dropbtn">Categorias</button>
+              <li class="dropbtn">Categorias</li>
                   <div class="dropdown-content">
                     <a><Link to="./Acao">Ação</Link></a>
                     <a><Link to="./Aventura">Aventura</Link></a>
@@ -29,7 +29,7 @@ const Menu = () => {
             </div>
           </ul>
           <div id="area_cliente">
-            <button class="area_cliente_login"><Link to="./Login">Entrar</Link></button>
+            <button class="area_cliente_login"><Link to="./Login">Login</Link></button>
             <button class="area_cliente_cadastro"><Link to="./Cadastro">Cadastro</Link></button>
           </div>
         </nav>

@@ -87,9 +87,9 @@
 
   #area_cliente{
     position: relative;
-    width: 20%;
-    margin-left: 75%;
-    margin-top: -6%;
+    width: 15%;
+    margin-left: 80%;
+    margin-top: -5.5%;
     height: 70px;
     text-decoration: none;
   }
@@ -111,7 +111,6 @@
     margin-left: 4px;
     color: white;
     border-radius: 5px;
-    background-image:  linear-gradient(to bottom right, #0770E7, #47A2E0);
     font-family: 'Montserrat', sans-serif;
     border: 1px solid;
     border-color: none;

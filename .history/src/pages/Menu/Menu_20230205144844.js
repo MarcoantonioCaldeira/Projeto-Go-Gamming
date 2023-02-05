@@ -29,7 +29,7 @@ const Menu = () => {
             </div>
           </ul>
           <div id="area_cliente">
-            <button class="area_cliente_login"><Link to="./Login">Entrar</Link></button>
+            <button class="area_cliente_login"><Link to="./Login">Login</Link></button>
             <button class="area_cliente_cadastro"><Link to="./Cadastro">Cadastro</Link></button>
           </div>
         </nav>

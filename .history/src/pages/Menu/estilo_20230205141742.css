@@ -1,21 +1,29 @@
 
 *{
-    text-decoration: none;
     margin: 0;
     padding: 0;
 }
 
+/* a, ul{
+    display: inline;
+    color: white;
+    text-decoration: none !important;
+    font-family: Arial;
+} */
+
+
 #nav_bar{
     width: 100%;
     height: 70px;
-    background-color: #181616;
+    background-color: blue;
 }
+
 
 #menu{
     width:20%;
     height: 70px;
-    margin-left: 15%;
-    /* background-color: red; */
+    margin-left: 20%;
+    background-color: red;
     list-style:none;
 }
 
@@ -24,17 +32,7 @@
     float:left;
 }
 
-#nav_bar li a{ 
-    text-decoration:none; 
-    padding:5px 10px; 
-    margin-top: 30%;
-    display:block;  
-    color: white; 
-    font-weight: 700; 
-    font-family: 'Montserrat', sans-serif;
-}
-
-
+#nav_bar li a{ text-decoration:none; padding:5px 10px; display:block;}
 
 /* DropDown Button */
 
@@ -44,25 +42,20 @@
 }
 
 
-.dropbtn{
-    position: relative;
-    background-color: #181616;
-    padding: 10px 15px;
-    font-size: 15px;
-    margin-top: 12%;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-    border: 1px solid;
-    border-radius: 5px;
-    border-color: #181616;
-    color: white;
+.dropbtn {
+    /* background-color: #4CAF50; */
+    /* color: white; */
+    /* padding: 16px; */
+    /* font-size: 16px; */
+    /* border: none; */
+    /* cursor: pointer; */
 }
 
 
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #222121;
+    background-color: #f9f9f9;
     font-weight: 500;
     font-family: 'Montserrat', sans-serif;
     min-width: 160px;
@@ -79,6 +72,7 @@
   
   .dropdown-content a:hover {background-color: #f1f1f1}
 
+  
   .dropdown:hover .dropdown-content {
     display: block;
   }
@@ -87,32 +81,29 @@
 
   #area_cliente{
     position: relative;
-    width: 20%;
-    margin-left: 75%;
-    margin-top: -6%;
+    align-items:flex-end;
+    width: 15%;
+    margin-left: 85%;
+    margin-top: -5.5%;
     height: 70px;
     text-decoration: none;
+    background-color: red;
   }
 
   .area_cliente_login{
     padding: 10px 20px;
-    font-weight: 700;
     border-radius: 5px;
-    color: white;
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
     border: 1px solid;
     border-color: none;
   }
 
   .area_cliente_cadastro{
-    margin-top: 10%;
-    padding: 10px 30px;
-    font-weight: 700;
-    margin-left: 4px;
-    color: white;
+    padding: 10px 22px;
     border-radius: 5px;
-    background-image:  linear-gradient(to bottom right, #0770E7, #47A2E0);
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
     border: 1px solid;
     border-color: none;
   }
