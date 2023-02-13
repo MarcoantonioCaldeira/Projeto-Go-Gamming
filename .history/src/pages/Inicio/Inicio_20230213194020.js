@@ -18,10 +18,7 @@ const Inicio = () => {
                     <h2 class="h1_novidades">Novidades</h2>
 
                     <div id="Area_Novidades">
-
-                        <div id="Jogo_1">
-                            <ItemJogo imagem="assets/Gothan_Knights.png" jogo="Gothan Knights"/>
-                        </div>
+                        <ItemJogo imagem="./assets/" jogo="Gothan Knights"/>
                     </div>
                 </div>
                 

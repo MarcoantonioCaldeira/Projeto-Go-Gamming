@@ -19,7 +19,7 @@ const Inicio = () => {
 
                     <div id="Area_Novidades">
 
-                        <div id="Jogo_1">
+                        <div id="Jogo_Novidade">
                             <ItemJogo imagem="assets/Gothan_Knights.png" jogo="Gothan Knights"/>
                         </div>
                     </div>

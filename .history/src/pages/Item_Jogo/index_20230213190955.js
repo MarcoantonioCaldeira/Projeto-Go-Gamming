@@ -5,7 +5,7 @@ export default function ItemJogo(props){
     return (
         <div className="corpo">
 
-            <img className="imagemJogo" src={props.imagem} />
+            <img className="imagemJogo" src={props.imagem} alt={props.jogo}/>
 
             <div className="NomeJogo">
                 {props.jogo}

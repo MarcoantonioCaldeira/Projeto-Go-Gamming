@@ -1,0 +1,19 @@
+.corpo{
+    width: 16%;
+    height: 240px;
+    border-radius: 5px;
+    background-color: #0770E7;
+}
+
+.imagemJogo{
+    width: 140px;
+    height: 100px;
+    background-color: #fff;
+    object-fit: contain;
+    border-radius: 2px;
+    border: 1px solid #734136;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 8px;
+    flex: 1;
+}
