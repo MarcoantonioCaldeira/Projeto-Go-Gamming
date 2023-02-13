@@ -14,7 +14,7 @@ const Inicio = () => {
 
                 <div id="Area_Principal">
 
-                    <h2 class="h1_novidades">Novidades</h2>
+                    <h2 h2="h1_novidades">Novidades</h2>
 
                     <div id="Area_Novidades">
                         
@@ -22,15 +22,16 @@ const Inicio = () => {
                 </div>
                 
 
-                <div id="Area_Principal_2">
+                {/* Jogos mais comprados
+                <div id="Area_Mais_Comprados">
 
-                    <h2 class="h1_mais_comprados">Jogos mais comprados</h2>
+                </div> */}
 
-                    <div id="Area_Mais_Comprados">
-                        
-                    </div>
-                </div>
+                
+                {/* Melhores franquias
+                <div Area>
 
+                </div> */}
             </div>
             <Rodape />
         </div>

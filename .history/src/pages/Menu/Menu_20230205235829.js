@@ -8,10 +8,10 @@ const Menu = () => {
         <nav id="nav_bar">
           <ul id="menu">
             <li>
-              <Link to="/">Inicio</Link>
+              <Link>Inicio</Link>
             </li>
             <li>
-              <Link to="/Jogos">Jogos</Link>
+              <Link>Jogos</Link>
             </li>
             <div class="dropdown" >
               <button class="dropbtn">Categorias</button>

@@ -32,13 +32,13 @@ function App() {
             <Route path="Aventura" element={<Aventura />} />
             <Route path="Arcades" element={<Arcades />} />
             <Route path="Familia" element={<Familia />} />
-            <Route path="Independentes" element={<Independentes />} />
-            <Route path="Jogos_RPG" element={<Jogos_RPG />} />
-            <Route path="Gratuitos" element={<Gratuitos />} />
-            <Route path="Terror" element={<Terror />} />
-            <Route path="Suspence" element={<Suspence />} />
-          <Route path="Login" element={<Login />} />
-          <Route path="Cadastro" element={<Cadastro />} />
+            <Route path="Independentes" element={<Independentes />}/>
+            <Route path="Jogos_RPG" element={<Jogos_RPG />}/>
+            <Route path="Gratuitos" element={<Gratuitos />}/>
+            <Route path="Terror" element={<Terror />}/>
+            <Route path="Suspence" element={<Suspence />}/>
+          <Route path="Login" element={<Login />}/>
+          <Route path="Cadastro" element={<Cadastro />}/>
         </Route>
     </Routes>
    </BrowserRouter>

@@ -24,7 +24,7 @@
     position: absolute;
     width: 80%;
     height:450px;
-    /* background-color: blue; */
+    background-color: blue;
     margin-left: 10%;
     margin-top: 10%;
 }
@@ -54,7 +54,7 @@
 #Area_Principal_2{
     position: absolute;
     width: 80%;
-    /* background-color: red; */
+    background-color: red;
     height:450px;
     margin-left: 10%;
     margin-top: 50%;
